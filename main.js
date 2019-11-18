@@ -1,8 +1,3 @@
-$(updateView) 
-
-function updateView() {
-    alert("Using jQuery!")
-}
 const BASE_URL = "https://zagster-service.herokuapp.com"
 
 $(updateView)

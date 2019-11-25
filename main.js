@@ -1,11 +1,11 @@
 // a memeory location that never changes
-const BASE_URL = "https://zagster-service.herokuapp.com"
-const PI = 3.14159
+// const BASE_URL = "https://zagster-service.herokuapp.com"
+//const PI = 3.14159
 
 // jQuery command. wait until web page loads, then call function 
 // whose name is in the parantheses
 // function call means run the code
-// $(greeter)
+$(greeter)
 
 
 // call function add (use it - make it run)
@@ -17,9 +17,17 @@ function add(num1 , num2){
   console.log("The answer is: " + answer);
   return answer;
 }
-// function greeter (name) {
-//   alert("Welcome to" + name +"data visualization")
-// }
+function greeter (name) {
+  alert("Welcome to" + name +"data visualization")
+}
+greeter ("Jo Jaramillo's")
+
+
+var = {name: "Jo", age: 25, car: {model: "Subaru," year: 2012}}
+console.log ("my name is" + person.name)
+console.log ("my age" + person.age)
+console.log ("my car model is" + person.car.model)
+
 // $(updateGraph)
 
 // function updateView() {

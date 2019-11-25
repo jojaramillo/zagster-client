@@ -23,10 +23,10 @@ function greeter (name) {
 greeter ("Jo Jaramillo's")
 
 
-var = {name: "Jo", age: 25, car: {model: "Subaru," year: 2012}}
-console.log ("my name is" + person.name)
-console.log ("my age" + person.age)
-console.log ("my car model is" + person.car.model)
+var = {name: "Jo", age: 25, car: {model: "Subaru", year: 2012}}
+console.log (" my name is " + person.name)
+console.log (" my age " + person.age)
+console.log (" my car model is " + person.car.model)
 
 // $(updateGraph)
 

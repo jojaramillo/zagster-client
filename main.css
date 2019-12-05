@@ -1,11 +1,16 @@
 body {
     font-family: "HelveticNeue", "Ariel", "San-serif";
+    
 }
-h2 {
-    font-size: 2em;
-}
-.jumbotron {
-    background-image: url ("IMG_2736.JPG") ;
-    background-size: cover;
-    height: 570px;
+
+h1 {
+    text-align: center;
+    color: yellow
   }
+ 
+  
+
+h2 {
+    font-size: 3em; 
+    color: yellow
+}
